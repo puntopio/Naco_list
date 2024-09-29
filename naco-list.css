@@ -1,0 +1,12 @@
+.naco-list-wrapper {
+    background-color: #f7f7f7;
+    padding: 10px;
+    border: 1px solid #ccc;
+    font-size: 16px;
+    font-weight: bold;
+}
+.naco-list-wrapper marquee a {
+    color: #f56b2a;
+    text-decoration: none;
+    margin-left: 5px;
+}
